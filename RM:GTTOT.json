@@ -1,0 +1,50 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "RM:GTTOT",
+				"abbreviation": "Brew",
+				"full": "RetardedMermaid's Guide To The Out There",
+				"authors": [
+					"RetardedMermaid", "RoughPillow"
+				],
+				"version": "1.0.0",
+				"url": "",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 0
+	},
+	"optionalfeature": [
+		{
+			"name": "Tongue Of The Masked One",
+			"prerequisite": [
+				{
+					"class": {
+						"name": "Warlock"
+					}
+				}
+			],
+			"entries": [
+				"You gain advantage on any saving throw against poison damage or {@condition poisoned}. You also enhance your sense of smell to snake-like levels. This allows you to easily recognize people and objects by their unique scent, thus you can track by scent. The base DC of any track test you make is 5 regardless of the terrain, increased by +2 for each day old the track is. You can detect poisoned food, drinks, objects, etc. and even strong emotions like anger or fear. Additionally, this invocation also grants you the ability speak with snakes and reptiles of animal intelligence, and they react friendly towards you (does not include magical beasts)."
+			],
+			"source": "RM:GTTOT",
+			"featureType": "EI"
+		},
+		{
+			"name": "Scales Of The Jormungand",
+			"prerequisite": [
+				{
+					"class": {
+						"name": "Warlock"
+					}
+				}
+			],
+			"entries": [
+				"You can cast armor of Agathys at will without spending a spell slot or material component; while the spell is active, your body becomes covered and translucent scales that seem to be made of ice and are just as cold to the touch. You also become immune to natural cold, and you have advantage on all saving throws against cold damage."
+			],
+			"source": "RM:GTTOT",
+			"featureType": "EI"
+		}
+	]
+}
