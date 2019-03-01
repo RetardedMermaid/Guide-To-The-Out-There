@@ -45,21 +45,6 @@
 			],
 			"source": "RM:GTTOT",
 			"featureType": "EI"
-		},
-		{
-			"name": "Scales Of The Jormungand",
-			"prerequisite": [
-				{
-					"class": {
-						"name": "Warlock"
-					}
-				}
-			],
-			"entries": [
-				"You can cast armor of Agathys at will without spending a spell slot or material component; while the spell is active, your body becomes covered and translucent scales that seem to be made of ice and are just as cold to the touch. You also become immune to natural cold, and you have advantage on all saving throws against cold damage."
-			],
-			"source": "PS:GTTOT",
-			"featureType": "EI"
 		}
 	]
 }
