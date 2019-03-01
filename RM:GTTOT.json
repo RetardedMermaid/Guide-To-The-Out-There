@@ -26,7 +26,7 @@
 				}
 			],
 			"entries": [
-				"You gain advantage on any saving throw against poison damage or {@condition poisoned}. You gain an accute sense of smell which lets you easily identify and follow odours and recognise people in disguise. You can track by scent and the base DC of any track test you make is 5 regardless of the terrain, increased by +2 for each day old the track is. You can detect poisoned food, drink and objects, and even strong emotions like anger and fear. Additionally, you can speak with snakes and reptiles of animal intelligence, and they react friendly towards you. This doesn't include magical beasts. At 6th level, you are able to smell magical auras, like a detect magic spell."
+				"You gain advantage on any saving throw against poison damage or {@condition poisoned}. You also enhance your sense of smell to snake-like levels. This allows you to easily recognize people and objects by their unique scent, thus you can track by scent. The base DC of any track test you make is 5 regardless of the terrain, increased by +2 for each day old the track is. You can detect poisoned food, drinks, objects, etc. and even strong emotions like anger or fear. Additionally, this invocation also grants you speak with snakes and reptiles of animal intelligence, and they react friendly towards you (does not include magical beasts)"
 			],
 			"source": "RM:GTTOT",
 			"featureType": "EI"
